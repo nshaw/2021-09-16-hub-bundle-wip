@@ -1,0 +1,9 @@
+code: entando-hub-bundle
+description: The bundle with the hub components
+components:
+  plugins:
+    - plugins/entando-hub-catalog-plugin.yaml
+  widgets:
+    - ui/widgets/eh-widgets-dir/eh-widgets/eh-app-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
